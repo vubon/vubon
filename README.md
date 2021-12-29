@@ -1,4 +1,10 @@
 ## :wave: Hello there!
+
+- :office: &nbsp;I'm currently working at **[Pathao]**
+- :seedling: &nbsp;I’m currently learning and working **Go, Kube**
+- :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/vubon/vubon/issues)**
+- :computer: &nbsp;Connect with me on **[Linkedin](https://www.linkedin.com/in/vubon-roy-18a25990/)**
+<br/>
 <p> My Name is Vubon and I am a Tech Entrepreneur, Senior Software Engineer, Open Source Enthusiast.</p>
 
 <p>I have over 4 years of large scale software design & development experience (Backend). Experienced in both writing software from scratch and maintaining large existing projects. In this time, I have developed applications on different verticals including event-driven, FinTech, IoT, OCR and so on. </p>
@@ -15,7 +21,7 @@ Area of expertise :
 
 Skills & Technologies:
 - Python, Golang
-- RESTful, gRPC, GraphQL API
+- RESTful, GraphQL API
 - PostgreSQL, Redis, MongoDB, MySQL
 - Apache Kafka, RabbitMQ
 - Kubernetes, Docker
@@ -28,7 +34,8 @@ Skills & Technologies:
 
 Have Experienced:
 - Dart, Flutter, Android Application
-- HTML5, CSS, Bootstrap 
+- JavaScript, ReactJS and ReactJS Native
+- HTML5, CSS, Bootstrap
 - PHP, WordPress
 
 <p align="left">
@@ -39,12 +46,6 @@ Have Experienced:
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/vubon?color=green&logo=github">
   </a>
 </p>
-<br/>
-
-- :office: &nbsp;I'm currently working at **[Pathao]**
-- :seedling: &nbsp;I’m currently learning and working **Go, Kube**
-- :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/vubon/vubon/issues)**
-- :computer: &nbsp;Connect with me on **[Linkedin](https://www.linkedin.com/in/vubon-roy-18a25990/)**
 <br/>
 
 ## PyPi Contribution 
