@@ -5,7 +5,7 @@
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/vubon/vubon/issues)**
 - :computer: &nbsp;Connect with me on **[Linkedin](https://www.linkedin.com/in/vubon-roy-18a25990/)**
 <br/>
-<p> I'm Vubon and I am a Tech Entrepreneur, Senior Software Engineer, Open Source Enthusiast.</p>
+<p> I'm Vubon and I am a Senior Software Engineer, Open Source Enthusiast.</p>
 
 <p>I have over 4 years of large scale software design & development experience (Backend). Experienced in both writing software from scratch and maintaining large existing projects. In this time, I have developed applications on different verticals including event-driven, FinTech, IoT, OCR and so on. </p>
 
