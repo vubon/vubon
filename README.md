@@ -50,10 +50,10 @@ Have Experienced:
 
 ## PyPi Contribution 
 
-### PyCronExpression [![Downloads](https://pepy.tech/badge/pycronexpression)](https://pepy.tech/project/pycronexpression) <br/>
-### bKashWebhook [![Downloads](https://pepy.tech/badge/bkashwebhook)](https://pepy.tech/project/bkashwebhook)<br/>
-### AWSSignV4 [![Downloads](https://pepy.tech/badge/awssignv4)](https://pepy.tech/project/awssignv4) <br/>
-### PEMFileGenerator ![Downloads](https://static.pepy.tech/personalized-badge/pemfilegenerator?period=total&units=none&left_color=brightgreen&right_color=blue&left_text=Downloads)<br/>
+### PyCronExpression [![Downloads](https://static.pepy.tech/badge/pycronexpression)](https://pepy.tech/project/pycronexpression) <br/>
+### bKashWebhook [![Downloads](https://static.pepy.tech/badge/bkashwebhook)](https://pepy.tech/project/bkashwebhook)<br/>
+### AWSSignV4 [![Downloads](https://static.pepy.tech/badge/awssignv4)](https://pepy.tech/project/awssignv4) <br/>
+### PEMFileGenerator [![Downloads](https://static.pepy.tech/badge/pemfilegenerator)](https://pepy.tech/project/pemfilegenerator)<br/>
 
 ![Vubon's GitHub stats](https://github-readme-stats.vercel.app/api?username=vubon&hide=issues&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vubon&layout=compact)
