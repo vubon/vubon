@@ -7,7 +7,7 @@
 <br/>
 <p> I'm Vubon and I am a Senior Software Engineer, Open Source Enthusiast.</p>
 
-<p>I have over 5 years of large scale software design & development experience (Backend). Experienced in both writing software from scratch and maintaining large existing projects. In this time, I have developed applications on different verticals including event-driven, FinTech, IoT, OCR and so on. </p>
+<p>I have over 6 years of large scale software design & development experience (Backend). Experienced in both writing software from scratch and maintaining large existing projects. In this time, I have developed applications on different verticals including event-driven, FinTech, IoT, OCR and so on. </p>
 
 <p>Currently working at Pathao Ltd as Senior Software Engineer I. Previously worked at ME SOLshare Ltd as Senior Software Engineer, where I mostly worked with Python, Django, Docker, Nginx, FreeRTOS, ESP32 and some other cool stuffs. Previously worked for Circle FinTech Ltd, Bangladesh as Software Engineer.</p>
 
