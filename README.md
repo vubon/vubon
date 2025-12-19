@@ -1,6 +1,6 @@
 ## :wave: Hello there!
 
-- :office: &nbsp;I'm currently working at **[Opn](https://www.opn.ooo/th-en/)**
+- :office: &nbsp;I'm currently working at **[Omise](https://omise.co/en)**
 - :seedling: &nbsp;I’m currently learning and working **Go, Kube**
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/vubon/vubon/issues)**
 - :computer: &nbsp;Connect with me on **[Linkedin](https://www.linkedin.com/in/vubon-roy-18a25990/)**
