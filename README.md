@@ -55,9 +55,6 @@ Have Experienced:
 ### AWSSignV4 [![Downloads](https://static.pepy.tech/badge/awssignv4)](https://pepy.tech/project/awssignv4) <br/>
 ### PEMFileGenerator [![Downloads](https://static.pepy.tech/badge/pemfilegenerator)](https://pepy.tech/project/pemfilegenerator)<br/>
 
-![Vubon's GitHub stats](https://github-readme-stats.vercel.app/api?username=vubon&hide=issues&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vubon&layout=compact)
-
 
 <!--
 **vubon/vubon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
